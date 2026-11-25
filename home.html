@@ -1,0 +1,387 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#090d18">
+<title>Clora | Vocabulary Library</title>
+
+<style>
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #090d18;
+    color: #eef2ff;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.header {
+    padding: 25px 0;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: 800;
+    color: #8b9cff;
+    letter-spacing: 1px;
+}
+
+.subtitle {
+    color: #8993aa;
+    margin-top: 8px;
+    font-size: 14px;
+}
+
+.search-box {
+    margin: 22px 0;
+}
+
+.search-box input {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #28334b;
+    border-radius: 12px;
+    background: #111a2b;
+    color: white;
+    font-size: 15px;
+    outline: none;
+}
+
+.search-box input:focus {
+    border-color: #8295ff;
+}
+
+.section-title {
+    font-size: 19px;
+    margin-bottom: 18px;
+}
+
+.category-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    gap: 16px;
+}
+
+.card {
+    background: linear-gradient(145deg, #151f32, #101726);
+    border: 1px solid #26334b;
+    border-radius: 16px;
+    padding: 20px;
+    transition: .25s;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+    border-color: #7287ff;
+}
+
+.card-icon {
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+
+.card h3 {
+    font-size: 17px;
+    margin-bottom: 9px;
+}
+
+.card p {
+    color: #9ba8bf;
+    font-size: 13px;
+    line-height: 1.6;
+    min-height: 62px;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 18px 0;
+}
+
+.word-count {
+    color: #8fa1ff;
+    font-size: 12px;
+}
+
+.download-btn {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #647cff, #936bff);
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.download-btn:active {
+    transform: scale(.97);
+}
+
+.download-btn:disabled {
+    opacity: .5;
+    cursor: not-allowed;
+}
+
+.status {
+    text-align: center;
+    padding: 35px 10px;
+    color: #9ba8bf;
+}
+
+.error {
+    color: #ff8585;
+}
+
+.empty {
+    text-align: center;
+    color: #929db1;
+    padding: 30px;
+    display: none;
+}
+
+@media(max-width: 500px) {
+    body {
+        padding: 15px;
+    }
+
+    .category-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .card p {
+        min-height: auto;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <header class="header">
+        <div class="logo">✦ CLORA</div>
+        <div class="subtitle">
+            Build your English vocabulary, one word at a time.
+        </div>
+    </header>
+
+    <div class="search-box">
+        <input
+            type="search"
+            id="searchInput"
+            placeholder="Search vocabulary categories..."
+        >
+    </div>
+
+    <h2 class="section-title">Explore Collections</h2>
+
+    <div id="status" class="status">
+        Loading collections...
+    </div>
+
+    <div id="categoryGrid" class="category-grid"></div>
+
+    <div id="emptyMessage" class="empty">
+        No categories found.
+    </div>
+
+</div>
+
+<script>
+
+const CATEGORY_URL = "categorylist.json";
+
+const grid = document.getElementById("categoryGrid");
+const status = document.getElementById("status");
+const searchInput = document.getElementById("searchInput");
+const emptyMessage = document.getElementById("emptyMessage");
+
+let categories = [];
+
+// Fetch category list
+async function loadCategories() {
+
+    try {
+
+        const response = await fetch(CATEGORY_URL);
+
+        if (!response.ok) {
+            throw new Error("Unable to load categorylist.json");
+        }
+
+        const data = await response.json();
+
+        categories = data.categories || [];
+
+        status.style.display = "none";
+
+        displayCategories(categories);
+
+    } catch (error) {
+
+        status.innerHTML = `
+            <div class="error">
+                ⚠️ ${error.message}
+                <br><br>
+                Please check your categorylist.json file.
+            </div>
+        `;
+
+    }
+
+}
+
+// Display category cards
+function displayCategories(list) {
+
+    grid.innerHTML = "";
+
+    emptyMessage.style.display =
+        list.length === 0 ? "block" : "none";
+
+    list.forEach(category => {
+
+        const card = document.createElement("div");
+        card.className = "card";
+
+        const icon = document.createElement("div");
+        icon.className = "card-icon";
+        icon.textContent = category.icon || "📚";
+
+        const title = document.createElement("h3");
+        title.textContent = category.name || "Untitled";
+
+        const description = document.createElement("p");
+        description.textContent = category.description || "";
+
+        const footer = document.createElement("div");
+        footer.className = "card-footer";
+
+        const count = document.createElement("span");
+        count.className = "word-count";
+        count.textContent =
+            `${category.wordCount ?? 0} Words`;
+
+        footer.appendChild(count);
+
+        const button = document.createElement("button");
+        button.className = "download-btn";
+        button.textContent = "↓ Download JSON";
+
+        button.addEventListener("click", () => {
+            downloadJSON(category, button);
+        });
+
+        card.append(
+            icon,
+            title,
+            description,
+            footer,
+            button
+        );
+
+        grid.appendChild(card);
+
+    });
+
+}
+
+// Download individual JSON file
+async function downloadJSON(category, button) {
+
+    const originalText = button.textContent;
+
+    try {
+
+        button.disabled = true;
+        button.textContent = "Downloading...";
+
+        const response = await fetch(
+            "vocabulary/" + category.file
+        );
+
+        if (!response.ok) {
+            throw new Error("Vocabulary file not found");
+        }
+
+        const data = await response.json();
+
+        const blob = new Blob(
+            [JSON.stringify(data, null, 2)],
+            { type: "application/json" }
+        );
+
+        const url = URL.createObjectURL(blob);
+
+        const link = document.createElement("a");
+
+        link.href = url;
+        link.download = category.file;
+
+        document.body.appendChild(link);
+        link.click();
+        link.remove();
+
+        URL.revokeObjectURL(url);
+
+        button.textContent = "✓ Downloaded";
+
+    } catch (error) {
+
+        alert("Download failed: " + error.message);
+
+        button.textContent = originalText;
+
+    } finally {
+
+        button.disabled = false;
+
+        setTimeout(() => {
+            button.textContent = originalText;
+        }, 1800);
+
+    }
+
+}
+
+// Search categories
+searchInput.addEventListener("input", () => {
+
+    const query = searchInput.value.toLowerCase().trim();
+
+    const filtered = categories.filter(category => {
+
+        return (
+            (category.name || "").toLowerCase().includes(query) ||
+            (category.description || "").toLowerCase().includes(query)
+        );
+
+    });
+
+    displayCategories(filtered);
+
+});
+
+// Initialize
+loadCategories();
+
+</script>
+
+</body>
+</html>
