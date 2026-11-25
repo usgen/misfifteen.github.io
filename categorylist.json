@@ -1,1 +1,69 @@
-joy
+
+{
+  "categories": [
+    {
+      "id": "cat001",
+      "name": "Daily Use Vocabulary",
+      "description": "Common English words used in everyday conversations.",
+      "icon": "💬",
+      "wordCount": 500,
+      "file": "daily-use.json"
+    },
+    {
+      "id": "cat002",
+      "name": "Academic Vocabulary",
+      "description": "Important words for academic writing, reading and examinations.",
+      "icon": "🎓",
+      "wordCount": 300,
+      "file": "academic.json"
+    },
+    {
+      "id": "cat003",
+      "name": "Business English",
+      "description": "Professional vocabulary for business, office and workplace communication.",
+      "icon": "💼",
+      "wordCount": 250,
+      "file": "business.json"
+    },
+    {
+      "id": "cat004",
+      "name": "IELTS Vocabulary",
+      "description": "Useful vocabulary for IELTS speaking, writing, reading and listening.",
+      "icon": "🌍",
+      "wordCount": 400,
+      "file": "ielts.json"
+    },
+    {
+      "id": "cat005",
+      "name": "Advanced Vocabulary",
+      "description": "Advanced English words to improve fluency and vocabulary skills.",
+      "icon": "🚀",
+      "wordCount": 350,
+      "file": "advanced.json"
+    },
+    {
+      "id": "cat006",
+      "name": "Phrasal Verbs",
+      "description": "Common and useful English phrasal verbs with meanings and examples.",
+      "icon": "📚",
+      "wordCount": 200,
+      "file": "phrasal-verbs.json"
+    },
+    {
+      "id": "cat007",
+      "name": "Synonyms & Antonyms",
+      "description": "Words with similar and opposite meanings.",
+      "icon": "🔄",
+      "wordCount": 300,
+      "file": "synonyms-antonyms.json"
+    },
+    {
+      "id": "cat008",
+      "name": "Idioms & Expressions",
+      "description": "Popular English idioms and expressions used by native speakers.",
+      "icon": "✨",
+      "wordCount": 150,
+      "file": "idioms.json"
+    }
+  ]
+}
