@@ -1,0 +1,82 @@
+[
+  {
+    "id": "acad001",
+    "word": "Ubiquitous",
+    "banglaMeaning": "সর্বব্যাপী / সর্বত্র বিরাজমান",
+    "example": "Smartphones have become ubiquitous in modern society, influencing how people communicate daily.",
+    "synonyms": ["Omnipresent", "Pervasive", "Universal"],
+    "antonyms": ["Rare", "Scarce", "Infrequent"]
+  },
+  {
+    "id": "acad002",
+    "word": "Pragmatic",
+    "banglaMeaning": "বাস্তবধর্মী / ব্যবহারিক",
+    "example": "The committee adopted a pragmatic approach to resolve the budget deficit without cutting essential programs.",
+    "synonyms": ["Practical", "Realistic", "Sensible"],
+    "antonyms": ["Idealistic", "Impractical", "Unrealistic"]
+  },
+  {
+    "id": "acad003",
+    "word": "Ambiguous",
+    "banglaMeaning": "দ্ব্যর্থবোধক / অস্পষ্ট",
+    "example": "The wording of the policy was intentionally ambiguous, leaving room for multiple interpretations.",
+    "synonyms": ["Vague", "Equivocal", "Obscure"],
+    "antonyms": ["Clear", "Explicit", "Unambiguous"]
+  },
+  {
+    "id": "acad004",
+    "word": "Substantiate",
+    "banglaMeaning": "প্রমাণ করা / সত্যতা প্রতিষ্ঠা করা",
+    "example": "Researchers must provide empirical evidence to substantiate their theoretical claims.",
+    "synonyms": ["Verify", "Corroborate", "Validate"],
+    "antonyms": ["Refute", "Disprove", "Contradict"]
+  },
+  {
+    "id": "acad005",
+    "word": "Mitigate",
+    "banglaMeaning": "প্রশমিত করা / তীব্রতা কমানো",
+    "example": "Reforestation projects are essential to mitigate the long-term impacts of climate change.",
+    "synonyms": ["Alleviate", "Reduce", "Lessen"],
+    "antonyms": ["Aggravate", "Exacerbate", "Intensify"]
+  },
+  {
+    "id": "acad006",
+    "word": "Ephemeral",
+    "banglaMeaning": "ক্ষণস্থায়ী / স্বল্পস্থায়ী",
+    "example": "Fame in the digital age is often ephemeral, fading as quickly as new trends emerge.",
+    "synonyms": ["Transient", "Fleeting", "Temporary"],
+    "antonyms": ["Permanent", "Enduring", "Perpetual"]
+  },
+  {
+    "id": "acad007",
+    "word": "Coherent",
+    "banglaMeaning": "সুসংগত / যুক্তিপূর্ণ",
+    "example": "A strong academic essay requires a coherent structure that logically connects each argument.",
+    "synonyms": ["Logical", "Consistent", "Lucid"],
+    "antonyms": ["Incoherent", "Disjointed", "Confusing"]
+  },
+  {
+    "id": "acad008",
+    "word": "Discrepancy",
+    "banglaMeaning": "অসঙ্গতি / গরমিল",
+    "example": "The audit revealed a significant discrepancy between the reported revenue and actual bank deposits.",
+    "synonyms": ["Inconsistency", "Disparity", "Divergence"],
+    "antonyms": ["Consistency", "Agreement", "Harmony"]
+  },
+  {
+    "id": "acad009",
+    "word": "Proliferate",
+    "banglaMeaning": "দ্রুত বৃদ্ধি পাওয়া / বিস্তার লাভ করা",
+    "example": "Digital payment platforms have continued to proliferate across developing economies over the past decade.",
+    "synonyms": ["Multiply", "Expand", "Escalate"],
+    "antonyms": ["Diminish", "Dwindle", "Contract"]
+  },
+  {
+    "id": "acad010",
+    "word": "Scrutinize",
+    "banglaMeaning": "সূক্ষ্মভাবে পরীক্ষা করা / পুঙ্খানুপুঙ্খ বিশ্লেষণ করা",
+    "example": "Peer reviewers carefully scrutinize every methodology section before approving a manuscript for publication.",
+    "synonyms": ["Examine", "Inspect", "Analyze"],
+    "antonyms": ["Overlook", "Neglect", "Ignore"]
+  }
+]
