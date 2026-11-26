@@ -1,0 +1,182 @@
+[
+  {
+    "id": "acad011",
+    "word": "Corroborate",
+    "banglaMeaning": "সমর্থন করা / সত্যতা নিশ্চিত করা",
+    "example": "Independent witness accounts corroborated the initial findings of the investigation.",
+    "synonyms": ["Confirm", "Substantiate", "Verify"],
+    "antonyms": ["Contradict", "Refute", "Dispute"],
+    "level": 2
+  },
+  {
+    "id": "acad012",
+    "word": "Exacerbate",
+    "banglaMeaning": "অবস্থা আরও খারাপ করা / তীব্রতর করা",
+    "example": "Sudden interest rate hikes can exacerbate borrowing pressure on small businesses.",
+    "synonyms": ["Worsen", "Aggravate", "Intensify"],
+    "antonyms": ["Alleviate", "Mitigate", "Ease"],
+    "level": 6
+  },
+  {
+    "id": "acad013",
+    "word": "Lucid",
+    "banglaMeaning": "স্বচ্ছ / সহজবোধ্য ও যুক্তিসম্পন্ন",
+    "example": "The professor delivered a lucid explanation of complex macroeconomic models.",
+    "synonyms": ["Clear", "Articulate", "Coherent"],
+    "antonyms": ["Obscure", "Confusing", "Ambiguous"],
+    "level": 2
+  },
+  {
+    "id": "acad014",
+    "word": "Empirical",
+    "banglaMeaning": "পর্যবেক্ষণ বা অভিজ্ঞতালব্ধ / প্রায়োগিক",
+    "example": "The study relies on empirical survey data rather than pure speculation.",
+    "synonyms": ["Observational", "Experimental", "Factual"],
+    "antonyms": ["Theoretical", "Hypothetical", "Speculative"],
+    "level": 4
+  },
+  {
+    "id": "acad015",
+    "word": "Concur",
+    "banglaMeaning": "একমত হওয়া / সহমত পোষণ করা",
+    "example": "Most analysts concur that mobile banking has expanded financial inclusion.",
+    "synonyms": ["Agree", "Consent", "Coincide"],
+    "antonyms": ["Disagree", "Dissent", "Differ"],
+    "level": 7
+  },
+  {
+    "id": "acad016",
+    "word": "Deteriorate",
+    "banglaMeaning": "অবনতি হওয়া / ক্রমে খারাপ হওয়া",
+    "example": "Infrastructure quality began to deteriorate due to years of underinvestment.",
+    "synonyms": ["Decline", "Degrade", "Worsen"],
+    "antonyms": ["Improve", "Recover", "Enhance"],
+    "level": 8
+  },
+  {
+    "id": "acad017",
+    "word": "Plausible",
+    "banglaMeaning": "যুক্তিসঙ্গত / বিশ্বাসযোগ্য বলে মনে হয় এমন",
+    "example": "Her explanation sounded plausible enough until the transaction logs were checked.",
+    "synonyms": ["Believable", "Credible", "Feasible"],
+    "antonyms": ["Implausible", "Unlikely", "Farfetched"],
+    "level": 8
+  },
+  {
+    "id": "acad018",
+    "word": "Catalyst",
+    "banglaMeaning": "অনুঘটক / পরিবর্তনের গতি ত্বরান্বিত করে এমন উপাদান",
+    "example": "Rapid smartphone adoption acted as a catalyst for digital wallet growth.",
+    "synonyms": ["Stimulus", "Impetus", "Trigger"],
+    "antonyms": ["Hinderance", "Deterrent", "Impediment"],
+    "level": 4
+  },
+  {
+    "id": "acad019",
+    "word": "Ameliorate",
+    "banglaMeaning": "উন্নতি ঘটানো / অবস্থার উন্নতি করা",
+    "example": "Targeted training programs helped ameliorate customer service turnaround times.",
+    "synonyms": ["Improve", "Better", "Amend"],
+    "antonyms": ["Worsen", "Aggravate", "Harm"],
+    "level": 1
+  },
+  {
+    "id": "acad020",
+    "word": "Benevolent",
+    "banglaMeaning": "হিতৈষী / পরোপকারী ও দয়ালু",
+    "example": "A benevolent foundation funded scholarships for low-income university students.",
+    "synonyms": ["Charitable", "Compassionate", "Philanthropic"],
+    "antonyms": ["Malevolent", "Cruel", "Selfish"],
+    "level": 2
+  },
+  {
+    "id": "acad021",
+    "word": "Arbitrary",
+    "banglaMeaning": "খেয়ালখুশিমতো / স্বেচ্ছাচারী বা যুক্তিহীন",
+    "example": "Setting deadlines without consulting the team felt arbitrary and disruptive.",
+    "synonyms": ["Capricious", "Random", "Whimsical"],
+    "antonyms": ["Systematic", "Rational", "Principled"],
+    "level": 2
+  },
+  {
+    "id": "acad022",
+    "word": "Resilient",
+    "banglaMeaning": "ঘুরে দাঁড়াতে সক্ষম / স্থিতিস্থাপক",
+    "example": "Resilient supply chains recover quickly after unexpected regional disruptions.",
+    "synonyms": ["Adaptable", "Durable", "Hardy"],
+    "antonyms": ["Fragile", "Brittle", "Vulnerable"],
+    "level": 5
+  },
+  {
+    "id": "acad023",
+    "word": "Apathy",
+    "banglaMeaning": "উদাসীনতা / অনীহা",
+    "example": "Low voter turnout often reflects widespread public apathy toward local elections.",
+    "synonyms": ["Indifference", "Detachment", "Unconcern"],
+    "antonyms": ["Enthusiasm", "Eagerness", "Passion"],
+    "level": 2
+  },
+  {
+    "id": "acad024",
+    "word": "Candor",
+    "banglaMeaning": "অকপটতা / খোলামেলা সত্যবাদিতা",
+    "example": "The manager appreciated the team's candor when reporting project bottlenecks.",
+    "synonyms": ["Frankness", "Honesty", "Directness"],
+    "antonyms": ["Deceit", "Evasiveness", "Dishonesty"],
+    "level": 8
+  },
+  {
+    "id": "acad025",
+    "word": "Curtail",
+    "banglaMeaning": "কমানো / সংক্ষিপ্ত বা সীমিত করা",
+    "example": "The company had to curtail discretionary spending during the fiscal review.",
+    "synonyms": ["Reduce", "Restrict", "Trim"],
+    "antonyms": ["Expand", "Increase", "Prolong"],
+    "level": 1
+  },
+  {
+    "id": "acad026",
+    "word": "Equitable",
+    "banglaMeaning": "ন্যায়সঙ্গত / নিরপেক্ষ ও সমান অধিকারভিত্তিক",
+    "example": "Workload distribution should be equitable across all members of the department.",
+    "synonyms": ["Fair", "Impartial", "Just"],
+    "antonyms": ["Unfair", "Biased", "Inequitable"],
+    "level": 8
+  },
+  {
+    "id": "acad027",
+    "word": "Frugal",
+    "banglaMeaning": "মিতব্যয়ী / সাশ্রয়ী",
+    "example": "Frugal habits help young professionals build savings early in their careers.",
+    "synonyms": ["Economical", "Thrifty", "Prudent"],
+    "antonyms": ["Extravagant", "Lavish", "Profligate"],
+    "level": 6
+  },
+  {
+    "id": "acad028",
+    "word": "Imminent",
+    "banglaMeaning": "আসন্ন / ঘনিয়ে আসা",
+    "example": "Dark clouds and dropping pressure signaled that heavy rain was imminent.",
+    "synonyms": ["Impending", "Approaching", "Forthcoming"],
+    "antonyms": ["Distant", "Remote", "Unlikely"],
+    "level": 4
+  },
+  {
+    "id": "acad029",
+    "word": "Superfluous",
+    "banglaMeaning": "অতিরিক্ত / অপ্রয়োজনীয়",
+    "example": "Trimming superfluous details made the executive summary much sharper.",
+    "synonyms": ["Redundant", "Excessive", "Unnecessary"],
+    "antonyms": ["Essential", "Necessary", "Vital"],
+    "level": 7
+  },
+  {
+    "id": "acad030",
+    "word": "Tenacious",
+    "banglaMeaning": "দৃঢ়সংকল্প / নাছোড়বান্দা ও অবিচল",
+    "example": "Tenacious problem-solving allowed the engineers to trace the elusive memory leak.",
+    "synonyms": ["Persistent", "Determined", "Steadfast"],
+    "antonyms": ["Irresolute", "Yielding", "Weak"],
+    "level": 5
+  }
+]
