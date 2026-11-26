@@ -1,1 +1,85 @@
-joy
+{
+  "collections": [
+    {
+      "id": "col001",
+      "name": "Daily Use Vocabulary",
+      "description": "Common English words used in everyday conversations.",
+      "category": "Vocabulary",
+      "icon": "💬",
+      "wordCount": 500,
+      "file": "daily-use.json"
+    },
+    {
+      "id": "col002",
+      "name": "Academic Vocabulary",
+      "description": "Important words for academic writing, reading and examinations.",
+      "category": "Vocabulary",
+      "icon": "🎓",
+      "wordCount": 300,
+      "file": "academic.json"
+    },
+    {
+      "id": "col003",
+      "name": "Business English",
+      "description": "Professional vocabulary for business, office and workplace communication.",
+      "category": "Vocabulary",
+      "icon": "💼",
+      "wordCount": 250,
+      "file": "business.json"
+    },
+    {
+      "id": "col004",
+      "name": "IELTS Vocabulary",
+      "description": "Useful vocabulary for IELTS speaking, writing, reading and listening.",
+      "category": "Vocabulary",
+      "icon": "🌍",
+      "wordCount": 400,
+      "file": "ielts.json"
+    },
+    {
+      "id": "col005",
+      "name": "Advanced Vocabulary",
+      "description": "Advanced English words to improve fluency and vocabulary skills.",
+      "category": "Vocabulary",
+      "icon": "🚀",
+      "wordCount": 350,
+      "file": "advanced.json"
+    },
+    {
+      "id": "col006",
+      "name": "Phrasal Verbs",
+      "description": "Common and useful English phrasal verbs with meanings and examples.",
+      "category": "Idioms and Phrases",
+      "icon": "📚",
+      "wordCount": 200,
+      "file": "phrasal-verbs.json"
+    },
+    {
+      "id": "col007",
+      "name": "Synonyms & Antonyms",
+      "description": "Words with similar and opposite meanings.",
+      "category": "Vocabulary",
+      "icon": "🔄",
+      "wordCount": 300,
+      "file": "synonyms-antonyms.json"
+    },
+    {
+      "id": "col008",
+      "name": "Idioms & Expressions",
+      "description": "Popular English idioms and expressions used by native speakers.",
+      "category": "Idioms and Phrases",
+      "icon": "✨",
+      "wordCount": 150,
+      "file": "idioms.json"
+    },
+    {
+      "id": "col009",
+      "name": "Bangla Words",
+      "description": "Essential Bangla words with English meanings and pronunciation guides.",
+      "category": "Bangla Words",
+      "icon": "🇧🇩",
+      "wordCount": 300,
+      "file": "bangla-words.json"
+    }
+  ]
+}
