@@ -1,0 +1,272 @@
+[
+  {
+    "id": "acad031",
+    "word": "Alleviate",
+    "banglaMeaning": "উপশম করা / লাঘব করা",
+    "example": "Microfinance initiatives aim to alleviate poverty among rural entrepreneurs.",
+    "synonyms": ["Relieve", "Mitigate", "Ease"],
+    "antonyms": ["Aggravate", "Exacerbate", "Intensify"],
+    "level": 2
+  },
+  {
+    "id": "acad032",
+    "word": "Anomaly",
+    "banglaMeaning": "ব্যতিক্রম / অস্বাভাবিকতা",
+    "example": "The sudden spike in midnight transactions was flagged as a statistical anomaly.",
+    "synonyms": ["Aberration", "Irregularity", "Deviation"],
+    "antonyms": ["Norm", "Standard", "Regularity"],
+    "level": 8
+  },
+  {
+    "id": "acad033",
+    "word": "Articulate",
+    "banglaMeaning": "স্পষ্টভাবে প্রকাশ করা / সুবক্তা",
+    "example": "Candidates must articulate their policy proposals clearly during the panel interview.",
+    "synonyms": ["Express", "Enunciate", "Convey"],
+    "antonyms": ["Mumble", "Stammer", "Obscure"],
+    "level": 7
+  },
+  {
+    "id": "acad034",
+    "word": "Bolster",
+    "banglaMeaning": "শক্তিশালী করা / সমর্থন জোগানো",
+    "example": "Foreign direct investment helped bolster the country's foreign exchange reserves.",
+    "synonyms": ["Strengthen", "Reinforce", "Support"],
+    "antonyms": ["Undermine", "Weaken", "Hinder"],
+    "level": 6
+  },
+  {
+    "id": "acad035",
+    "word": "Cautious",
+    "banglaMeaning": "সতর্ক / সাবধানী",
+    "example": "Commercial banks remain cautious when approving unsecured corporate loans.",
+    "synonyms": ["Prudent", "Careful", "Vigilant"],
+    "antonyms": ["Reckless", "Rash", "Careless"],
+    "level": 1
+  },
+  {
+    "id": "acad036",
+    "word": "Comprehensive",
+    "banglaMeaning": "বিস্তৃত / সামগ্রিক ও পূর্ণাঙ্গ",
+    "example": "The committee published a comprehensive review of national monetary policy.",
+    "synonyms": ["Thorough", "Extensive", "Exhaustive"],
+    "antonyms": ["Incomplete", "Limited", "Superficial"],
+    "level": 8
+  },
+  {
+    "id": "acad037",
+    "word": "Conspicuous",
+    "banglaMeaning": "সহজেই দৃষ্টিগোচর / সুস্পষ্ট",
+    "example": "A conspicuous lack of liquidity stalled several major infrastructure projects.",
+    "synonyms": ["Noticeable", "Prominent", "Obvious"],
+    "antonyms": ["Inconspicuous", "Hidden", "Obscure"],
+    "level": 3
+  },
+  {
+    "id": "acad038",
+    "word": "Contend",
+    "banglaMeaning": "দাবি করা / যুক্তি প্রদর্শন বা লড়াই করা",
+    "example": "Economists contend that inflation must be curbed before cutting benchmark rates.",
+    "synonyms": ["Assert", "Argue", "Maintain"],
+    "antonyms": ["Concede", "Yield", "Deny"],
+    "level": 2
+  },
+  {
+    "id": "acad039",
+    "word": "Credible",
+    "banglaMeaning": "বিশ্বাসযোগ্য / নির্ভরযোগ্য",
+    "example": "Academic arguments carry weight only when backed by credible peer-reviewed sources.",
+    "synonyms": ["Believable", "Reliable", "Trustworthy"],
+    "antonyms": ["Implausible", "Unreliable", "Dubious"],
+    "level": 7
+  },
+  {
+    "id": "acad040",
+    "word": "Deplete",
+    "banglaMeaning": "নিঃশেষ করা / কমিয়ে ফেলা",
+    "example": "Unchecked impulse spending can rapidly deplete a student's monthly allowance.",
+    "synonyms": ["Exhaust", "Drain", "Consume"],
+    "antonyms": ["Replenish", "Restore", "Augment"],
+    "level": 1
+  },
+  {
+    "id": "acad041",
+    "word": "Diligent",
+    "banglaMeaning": "পরিশ্রমী / অধ্যবসায়ী",
+    "example": "Diligent preparation is essential for passing competitive banking recruitment exams.",
+    "synonyms": ["Industrious", "Conscientious", "Assiduous"],
+    "antonyms": ["Lazy", "Negligent", "Careless"],
+    "level": 7
+  },
+  {
+    "id": "acad042",
+    "word": "Disparity",
+    "banglaMeaning": "বৈষম্য / অসামঞ্জস্য",
+    "example": "The report highlighted a growing income disparity between urban and rural households.",
+    "synonyms": ["Inequality", "Discrepancy", "Gap"],
+    "antonyms": ["Parity", "Equality", "Similarity"],
+    "level": 7
+  },
+  {
+    "id": "acad043",
+    "word": "Eloquent",
+    "banglaMeaning": "বাগ্মী / ভাবপূর্ণ ও প্রাঞ্জল",
+    "example": "She delivered an eloquent keynote address on sustainable economic development.",
+    "synonyms": ["Articulate", "Fluent", "Expressive"],
+    "antonyms": ["Inarticulate", "Halting", "Dull"],
+    "level": 7
+  },
+  {
+    "id": "acad044",
+    "word": "Encompass",
+    "banglaMeaning": "অন্তর্ভুক্ত করা / পরিবেষ্টন করা",
+    "example": "Modern risk management frameworks encompass operational, credit, and cyber risks.",
+    "synonyms": ["Include", "Comprise", "Embrace"],
+    "antonyms": ["Exclude", "Omit", "Isolate"],
+    "level": 3
+  },
+  {
+    "id": "acad045",
+    "word": "Fluctuate",
+    "banglaMeaning": "ওঠানামা করা / পরিবর্তিত হওয়া",
+    "example": "Commodity prices tend to fluctuate sharply during periods of geopolitical tension.",
+    "synonyms": ["Vary", "Oscillate", "Shift"],
+    "antonyms": ["Stabilize", "Persist", "Remain"],
+    "level": 5
+  },
+  {
+    "id": "acad046",
+    "word": "Formidable",
+    "banglaMeaning": "দুর্দান্ত / ভীতিপ্রদ বা অত্যন্ত শক্তিশালী",
+    "example": "Integrating legacy banking cores with modern APIs poses a formidable challenge.",
+    "synonyms": ["Daunting", "Intimidating", "Mighty"],
+    "antonyms": ["Trivial", "Weak", "Feeble"],
+    "level": 8
+  },
+  {
+    "id": "acad047",
+    "word": "Foster",
+    "banglaMeaning": "লালন করা / উৎসাহিত বা বিকশিত করা",
+    "example": "Universities should foster critical thinking alongside technical proficiency.",
+    "synonyms": ["Promote", "Encourage", "Nurture"],
+    "antonyms": ["Hinder", "Suppress", "Discourage"],
+    "level": 7
+  },
+  {
+    "id": "acad048",
+    "word": "Impede",
+    "banglaMeaning": "বাধা দেওয়া / ব্যাহত করা",
+    "example": "Bureaucratic delays often impede the timely execution of public infrastructure plans.",
+    "synonyms": ["Hinder", "Obstruct", "Hamper"],
+    "antonyms": ["Facilitate", "Assist", "Advance"],
+    "level": 3
+  },
+  {
+    "id": "acad049",
+    "word": "Inherent",
+    "banglaMeaning": "অন্তর্নিহিত / সহজাত",
+    "example": "Every equity investment carries an inherent degree of market volatility.",
+    "synonyms": ["Intrinsic", "Innate", "Built-in"],
+    "antonyms": ["Extrinsic", "Acquired", "External"],
+    "level": 8
+  },
+  {
+    "id": "acad050",
+    "word": "Innovative",
+    "banglaMeaning": "উদ্ভাবনী / নতুনত্বপূর্ণ",
+    "example": "Fintech startups introduced innovative micro-lending solutions for small merchants.",
+    "synonyms": ["Inventive", "Original", "Pioneering"],
+    "antonyms": ["Conventional", "Traditional", "Unimaginative"],
+    "level": 6
+  },
+  {
+    "id": "acad051",
+    "word": "Juxtapose",
+    "banglaMeaning": "পাশাপাশি রেখে তুলনা করা",
+    "example": "The researcher juxtaposed traditional cash habits with mobile wallet adoption rates.",
+    "synonyms": ["Compare", "Contrast", "Collocate"],
+    "antonyms": ["Separate", "Isolate", "Divide"],
+    "level": 6
+  },
+  {
+    "id": "acad052",
+    "word": "Meticulous",
+    "banglaMeaning": "অতি সতর্ক / খুঁটিনাটি বিষয়ে যত্নশীল",
+    "example": "Auditors must maintain meticulous records to ensure full regulatory compliance.",
+    "synonyms": ["Thorough", "Scrupulous", "Precise"],
+    "antonyms": ["Careless", "Sloppy", "Negligent"],
+    "level": 6
+  },
+  {
+    "id": "acad053",
+    "word": "Nuance",
+    "banglaMeaning": "সূক্ষ্ম পার্থক্য / সূক্ষ্ম ভাব",
+    "example": "Understanding cultural nuance is vital when localizing user interfaces.",
+    "synonyms": ["Subtlety", "Distinction", "Refinement"],
+    "antonyms": ["Obviousness", "Coarseness", "Bluntness"],
+    "level": 1
+  },
+  {
+    "id": "acad054",
+    "word": "Obsolete",
+    "banglaMeaning": "অপ্রচলিত / সেকেলে",
+    "example": "Cloud-based storage has rendered physical floppy disks completely obsolete.",
+    "synonyms": ["Outdated", "Antiquated", "Archaic"],
+    "antonyms": ["Modern", "Current", "Contemporary"],
+    "level": 2
+  },
+  {
+    "id": "acad055",
+    "word": "Paradigm",
+    "banglaMeaning": "দৃষ্টান্ত / আদর্শ কাঠামো বা মডেল",
+    "example": "Contactless payments triggered a major paradigm shift in retail banking.",
+    "synonyms": ["Model", "Archetype", "Framework"],
+    "antonyms": ["Anomaly", "Deviation", "Exception"],
+    "level": 7
+  },
+  {
+    "id": "acad056",
+    "word": "Prevalent",
+    "banglaMeaning": "প্রচলিত / ব্যাপকভাবে বিস্তৃত",
+    "example": "Digital payment overspending is particularly prevalent among urban college students.",
+    "synonyms": ["Widespread", "Common", "Pervasive"],
+    "antonyms": ["Rare", "Uncommon", "Scarce"],
+    "level": 3
+  },
+  {
+    "id": "acad057",
+    "word": "Rectify",
+    "banglaMeaning": "সংশোধন করা / ত্রুটি দূর করা",
+    "example": "The engineering team deployed a hotfix to rectify the synchronization bug.",
+    "synonyms": ["Correct", "Amend", "Remedy"],
+    "antonyms": ["Corrupt", "Worsen", "Damage"],
+    "level": 7
+  },
+  {
+    "id": "acad058",
+    "word": "Skeptical",
+    "banglaMeaning": "সংশয়ী / সন্দিহান",
+    "example": "Investors remained skeptical about the startup's aggressive revenue projections.",
+    "synonyms": ["Doubtful", "Dubious", "Cynical"],
+    "antonyms": ["Credulous", "Trusting", "Convinced"],
+    "level": 6
+  },
+  {
+    "id": "acad059",
+    "word": "Transient",
+    "banglaMeaning": "ক্ষণস্থায়ী / অস্থায়ী",
+    "example": "Central banks must distinguish between transient price shocks and persistent inflation.",
+    "synonyms": ["Temporary", "Fleeting", "Ephemeral"],
+    "antonyms": ["Permanent", "Lasting", "Enduring"],
+    "level": 1
+  },
+  {
+    "id": "acad060",
+    "word": "Vindicate",
+    "banglaMeaning": "নির্দোষ বা সঠিক প্রমাণ করা / সমর্থন করা",
+    "example": "Long-term performance data eventually vindicated the board's strategic pivot.",
+    "synonyms": ["Justify", "Exonerate", "Validate"],
+    "antonyms": ["Condemn", "Blame", "Discredit"],
+    "level": 5
+  }
+]
