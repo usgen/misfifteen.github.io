@@ -1987,6 +1987,1014 @@
     "synonyms": ["Unchangeable", "Invariable", "Unalterable"],
     "antonyms": ["Mutable", "Changeable", "Variable"],
     "level": 4
+  },
+  {
+    "id": "barron222",
+    "word": "Reproach",
+    "banglaMeaning": "তিরস্কার করা",
+    "example": "She reproached him gently.",
+    "synonyms": ["Rebuke", "Reprimand", "Chide"],
+    "antonyms": ["Praise", "Commend", "Approve"],
+    "level": 5
+  },
+  {
+    "id": "barron223",
+    "word": "Reprobate",
+    "banglaMeaning": "নীতিহীন ব্যক্তি",
+    "example": "He is a reprobate.",
+    "synonyms": ["Miscreant", "Degenerate", "Scoundrel"],
+    "antonyms": ["Saint", "Paragon", "Upright"],
+    "level": 5
+  },
+  {
+    "id": "barron224",
+    "word": "Repudiate",
+    "banglaMeaning": "প্রত্যাখ্যান করা",
+    "example": "She repudiated the accusation.",
+    "synonyms": ["Reject", "Disavow", "Renounce"],
+    "antonyms": ["Accept", "Embrace", "Endorse"],
+    "level": 5
+  },
+  {
+    "id": "barron225",
+    "word": "Rescind",
+    "banglaMeaning": "বাতিল করা",
+    "example": "The order was rescinded.",
+    "synonyms": ["Revoke", "Repeal", "Annul"],
+    "antonyms": ["Enact", "Ratify", "Uphold"],
+    "level": 5
+  },
+  {
+    "id": "barron226",
+    "word": "Resolution",
+    "banglaMeaning": "দৃঢ় সংকল্প",
+    "example": "He made a firm resolution.",
+    "synonyms": ["Determination", "Resolve", "Tenacity"],
+    "antonyms": ["Indecision", "Vacillation", "Hesitation"],
+    "level": 5
+  },
+  {
+    "id": "barron227",
+    "word": "Resolve",
+    "banglaMeaning": "দৃঢ়প্রতিজ্ঞ হওয়া",
+    "example": "She resolved to succeed.",
+    "synonyms": ["Determine", "Commit", "Decide"],
+    "antonyms": ["Waver", "Hesitate", "Falter"],
+    "level": 5
+  },
+  {
+    "id": "barron228",
+    "word": "Reticent",
+    "banglaMeaning": "স্বল্পভাষী",
+    "example": "He is reticent about his past.",
+    "synonyms": ["Reserved", "Taciturn", "Tight-lipped"],
+    "antonyms": ["Loquacious", "Garrulous", "Talkative"],
+    "level": 5
+  },
+  {
+    "id": "barron229",
+    "word": "Reverent",
+    "banglaMeaning": "শ্রদ্ধাশীল",
+    "example": "They stood in reverent silence.",
+    "synonyms": ["Respectful", "Venerating", "Deferential"],
+    "antonyms": ["Disrespectful", "Irreverent", "Impious"],
+    "level": 5
+  },
+  {
+    "id": "barron230",
+    "word": "Sage",
+    "banglaMeaning": "জ্ঞানী ব্যক্তি",
+    "example": "The sage gave advice.",
+    "synonyms": ["Wise", "Sagacious", "Prudent"],
+    "antonyms": ["Fool", "Simpleton", "Ignoramus"],
+    "level": 5
+  },
+  {
+    "id": "barron231",
+    "word": "Salubrious",
+    "banglaMeaning": "স্বাস্থ্যকর",
+    "example": "The climate is salubrious.",
+    "synonyms": ["Healthful", "Wholesome", "Beneficial"],
+    "antonyms": ["Unhealthy", "Noxious", "Insanitary"],
+    "level": 5
+  },
+  {
+    "id": "barron232",
+    "word": "Sanction",
+    "banglaMeaning": "অনুমোদন দেওয়া",
+    "example": "The plan received sanction.",
+    "synonyms": ["Approve", "Authorize", "Ratify"],
+    "antonyms": ["Prohibit", "Ban", "Disapprove"],
+    "level": 5
+  },
+  {
+    "id": "barron233",
+    "word": "Satiate",
+    "banglaMeaning": "তৃপ্ত করা",
+    "example": "The meal satiated him.",
+    "synonyms": ["Satisfy", "Surfeit", "Glut"],
+    "antonyms": ["Starve", "Deprive", "Stint"],
+    "level": 5
+  },
+  {
+    "id": "barron234",
+    "word": "Saturate",
+    "banglaMeaning": "সম্পূর্ণ ভেজানো",
+    "example": "Rain saturated the soil.",
+    "synonyms": ["Soak", "Drench", "Impregnate"],
+    "antonyms": ["Dry", "Dehydrate", "Drain"],
+    "level": 5
+  },
+  {
+    "id": "barron235",
+    "word": "Savor",
+    "banglaMeaning": "উপভোগ করা",
+    "example": "She savored the moment.",
+    "synonyms": ["Relish", "Enjoy", "Appreciate"],
+    "antonyms": ["Dislike", "Loathe", "Scorn"],
+    "level": 5
+  },
+  {
+    "id": "barron236",
+    "word": "Secrete",
+    "banglaMeaning": "গোপনে লুকানো",
+    "example": "Animals secrete chemicals.",
+    "synonyms": ["Conceal", "Hide", "Exude"],
+    "antonyms": ["Reveal", "Expose", "Display"],
+    "level": 5
+  },
+  {
+    "id": "barron237",
+    "word": "Shard",
+    "banglaMeaning": "ভগ্নাংশ",
+    "example": "A shard of glass lay there.",
+    "synonyms": ["Fragment", "Splinter", "Piece"],
+    "antonyms": ["Whole", "Entity", "Mass"],
+    "level": 5
+  },
+  {
+    "id": "barron238",
+    "word": "Skeptic",
+    "banglaMeaning": "সংশয়বাদী",
+    "example": "He is a skeptic.",
+    "synonyms": ["Doubter", "Cynic", "Questioner"],
+    "antonyms": ["Believer", "Credulist", "Zealot"],
+    "level": 5
+  },
+  {
+    "id": "barron239",
+    "word": "Solicitous",
+    "banglaMeaning": "উদ্বিগ্ন",
+    "example": "She was solicitous about health.",
+    "synonyms": ["Attentive", "Concerned", "Caring"],
+    "antonyms": ["Indifferent", "Uncaring", "Apathetic"],
+    "level": 5
+  },
+  {
+    "id": "barron240",
+    "word": "Soporific",
+    "banglaMeaning": "নিদ্রাজনক",
+    "example": "The lecture was soporific.",
+    "synonyms": ["Sleep-inducing", "Sedative", "Somniferous"],
+    "antonyms": ["Stimulating", "Energizing", "Arousing"],
+    "level": 5
+  },
+  {
+    "id": "barron241",
+    "word": "Specious",
+    "banglaMeaning": "ভ্রান্তভাবে আকর্ষণীয়",
+    "example": "His logic was specious.",
+    "synonyms": ["Fallacious", "Plausible", "Deceptive"],
+    "antonyms": ["Genuine", "Valid", "Sound"],
+    "level": 5
+  },
+  {
+    "id": "barron242",
+    "word": "Spectrum",
+    "banglaMeaning": "বর্ণালী",
+    "example": "Light forms a spectrum.",
+    "synonyms": ["Range", "Scale", "Array"],
+    "antonyms": ["Singularity", "Monochrome", "Narrow"],
+    "level": 5
+  },
+  {
+    "id": "barron243",
+    "word": "Sporadic",
+    "banglaMeaning": "অনিয়মিত",
+    "example": "Violence was sporadic.",
+    "synonyms": ["Intermittent", "Occasional", "Erratic"],
+    "antonyms": ["Continuous", "Constant", "Frequent"],
+    "level": 5
+  },
+  {
+    "id": "barron244",
+    "word": "Stigma",
+    "banglaMeaning": "কলঙ্ক",
+    "example": "Mental illness carries stigma.",
+    "synonyms": ["Blemish", "Disgrace", "Mark"],
+    "antonyms": ["Honor", "Credit", "Distinction"],
+    "level": 5
+  },
+  {
+    "id": "barron245",
+    "word": "Stint",
+    "banglaMeaning": "সীমাবদ্ধ করা",
+    "example": "Do not stint effort.",
+    "synonyms": ["Skimp", "Scrimp", "Spare"],
+    "antonyms": ["Lavish", "Squander", "Splurge"],
+    "level": 5
+  },
+  {
+    "id": "barron246",
+    "word": "Stipulate",
+    "banglaMeaning": "শর্ত নির্ধারণ করা",
+    "example": "The contract stipulates rules.",
+    "synonyms": ["Specify", "Require", "Mandate"],
+    "antonyms": ["Waive", "Omit", "Neglect"],
+    "level": 5
+  },
+  {
+    "id": "barron247",
+    "word": "Stolid",
+    "banglaMeaning": "নির্বিকার, অবিচলিত, নির্বিকার, অটল, আবেগ-রহিত",
+    "example": "He remained stolid.",
+    "synonyms": ["Impassive", "Phlegmatic", "Unemotional"],
+    "antonyms": ["Emotional", "Excitable", "Passionate"],
+    "level": 5
+  },
+  {
+    "id": "barron248",
+    "word": "Striated",
+    "banglaMeaning": "রেখাযুক্ত",
+    "example": "The rock was striated.",
+    "synonyms": ["Grooved", "Furrowed", "Ridged"],
+    "antonyms": ["Smooth", "Plain", "Unlined"],
+    "level": 5
+  },
+  {
+    "id": "barron249",
+    "word": "Strut",
+    "banglaMeaning": "গর্বভরে হাঁটা",
+    "example": "He strutted confidently.",
+    "synonyms": ["Swagger", "Prance", "Parade"],
+    "antonyms": ["Slouch", "Trudge", "Shuffle"],
+    "level": 5
+  },
+  {
+    "id": "barron250",
+    "word": "Subpoena",
+    "banglaMeaning": "আদালতের তলব",
+    "example": "He received a subpoena.",
+    "synonyms": ["Summons", "Writ", "Citation"],
+    "antonyms": ["Exemption", "Release", "Pardon"],
+    "level": 5
+  },
+  {
+    "id": "barron251",
+    "word": "Subside",
+    "banglaMeaning": "প্রশমিত হওয়া",
+    "example": "The anger subsided.",
+    "synonyms": ["Abate", "Recede", "Ebb"],
+    "antonyms": ["Escalate", "Surge", "Intensify"],
+    "level": 5
+  },
+  {
+    "id": "barron252",
+    "word": "Substantiate",
+    "banglaMeaning": "প্রমাণ করা",
+    "example": "The claim was substantiated.",
+    "synonyms": ["Verify", "Corroborate", "Validate"],
+    "antonyms": ["Refute", "Disprove", "Falsify"],
+    "level": 5
+  },
+  {
+    "id": "barron253",
+    "word": "Supersede",
+    "banglaMeaning": "প্রতিস্থাপন করা",
+    "example": "New laws supersede old ones.",
+    "synonyms": ["Replace", "Supplant", "Override"],
+    "antonyms": ["Retain", "Keep", "Preserve"],
+    "level": 5
+  },
+  {
+    "id": "barron254",
+    "word": "Supposition",
+    "banglaMeaning": "অনুমান",
+    "example": "The theory is based on supposition.",
+    "synonyms": ["Hypothesis", "Assumption", "Conjecture"],
+    "antonyms": ["Fact", "Certainty", "Proof"],
+    "level": 5
+  },
+  {
+    "id": "barron255",
+    "word": "Tacit",
+    "banglaMeaning": "নীরবে স্বীকৃত",
+    "example": "There was tacit approval.",
+    "synonyms": ["Implicit", "Unspoken", "Silent"],
+    "antonyms": ["Explicit", "Expressed", "Vocal"],
+    "level": 5
+  },
+  {
+    "id": "barron256",
+    "word": "Tangential",
+    "banglaMeaning": "প্রান্তিক, স্পর্শকাতর",
+    "example": "His comment was tangential.",
+    "synonyms": ["Incidental", "Peripheral", "Digressive"],
+    "antonyms": ["Central", "Relevant", "Pertinent"],
+    "level": 5
+  },
+  {
+    "id": "barron257",
+    "word": "Tenuous",
+    "banglaMeaning": "দুর্বল",
+    "example": "The connection is tenuous.",
+    "synonyms": ["Fl fragile", "Slight", "Slender"],
+    "antonyms": ["Strong", "Substantial", "Solid"],
+    "level": 5
+  },
+  {
+    "id": "barron258",
+    "word": "Tirade",
+    "banglaMeaning": "তীব্র ভর্ৎসনা\n\n(castigate) (deride - উপহাস)",
+    "example": "He went on a tirade.",
+    "synonyms": ["Harangue", "Diatribe", "Rant"],
+    "antonyms": ["Eulogy", "Praise", "Compliment"],
+    "level": 5
+  },
+  {
+    "id": "barron259",
+    "word": "Torpor",
+    "banglaMeaning": "জড়তা",
+    "example": "Winter brings torpor.",
+    "synonyms": ["Lethargy", "Sluggishness", "Inertia"],
+    "antonyms": ["Vigor", "Energy", "Activity"],
+    "level": 5
+  },
+  {
+    "id": "barron260",
+    "word": "Tortuous",
+    "banglaMeaning": "পেঁচানো",
+    "example": "The road is tortuous.",
+    "synonyms": ["Winding", "Sinuous", "Convoluted"],
+    "antonyms": ["Straight", "Direct", "Simple"],
+    "level": 5
+  },
+  {
+    "id": "barron261",
+    "word": "Tractable",
+    "banglaMeaning": "সহজে নিয়ন্ত্রণযোগ্য",
+    "example": "The animal is tractable.",
+    "synonyms": ["Manageable", "Amenable", "Docile"],
+    "antonyms": ["Intractable", "Stubborn", "Refractory"],
+    "level": 5
+  },
+  {
+    "id": "barron262",
+    "word": "Transgression",
+    "banglaMeaning": "অপরাধমূলক লঙ্ঘন",
+    "example": "The act was a transgression.",
+    "synonyms": ["Violation", "Infringement", "Offense"],
+    "antonyms": ["Compliance", "Obedience", "Observance"],
+    "level": 5
+  },
+  {
+    "id": "barron263",
+    "word": "Truculence",
+    "banglaMeaning": "আক্রমণাত্মকতা",
+    "example": "His truculence scared others.",
+    "synonyms": ["Belligerence", "Aggressiveness", "Combative"],
+    "antonyms": ["Amiability", "Gentleness", "Peacefulness"],
+    "level": 5
+  },
+  {
+    "id": "barron264",
+    "word": "Vacillate",
+    "banglaMeaning": "দোদুল্যমান হওয়া\n(irresolute) ",
+    "example": "He tends to vacillate.",
+    "synonyms": ["Waver", "Fluctuate", "Hesitate"],
+    "antonyms": ["Resolve", "Commit", "Decide"],
+    "level": 5
+  },
+  {
+    "id": "barron265",
+    "word": "Venerate",
+    "banglaMeaning": "শ্রদ্ধা করা",
+    "example": "They venerate elders.",
+    "synonyms": ["Revere", "Respect", "Esteem"],
+    "antonyms": ["Despise", "Disrespect", "Dishonor"],
+    "level": 5
+  },
+  {
+    "id": "barron266",
+    "word": "Veracious",
+    "banglaMeaning": "সত্যবাদী",
+    "example": "He is veracious.",
+    "synonyms": ["Truthful", "Honest", "Sincere"],
+    "antonyms": ["Mendacious", "Dishonest", "Deceitful"],
+    "level": 5
+  },
+  {
+    "id": "barron267",
+    "word": "Verbose",
+    "banglaMeaning": "অতিবিস্তৃত",
+    "example": "His writing is verbose.",
+    "synonyms": ["Wordy", "Prolix", "Long-winded"],
+    "antonyms": ["Concise", "Laconic", "Succinct"],
+    "level": 5
+  },
+  {
+    "id": "barron268",
+    "word": "Viable",
+    "banglaMeaning": "কার্যকর",
+    "example": "The plan is viable.",
+    "synonyms": ["Feasible", "Practical", "Workable"],
+    "antonyms": ["Impractical", "Unworkable", "Futile"],
+    "level": 5
+  },
+  {
+    "id": "barron269",
+    "word": "Viscous",
+    "banglaMeaning": "আঠালো",
+    "example": "The liquid is viscous.",
+    "synonyms": ["Syrupy", "Thick", "Sticky"],
+    "antonyms": ["Fluid", "Watery", "Thin"],
+    "level": 5
+  },
+  {
+    "id": "barron270",
+    "word": "Vituperative",
+    "banglaMeaning": "গালিগালাজপূর্ণ",
+    "example": "He used vituperative language.",
+    "synonyms": ["Abusive", "Scathing", "Reviling"],
+    "antonyms": ["Complimentary", "Praising", "Laudatory"],
+    "level": 5
+  },
+  {
+    "id": "barron271",
+    "word": "Volatile",
+    "banglaMeaning": "অস্থির",
+    "example": "The market is volatile.",
+    "synonyms": ["Unstable", "Erratic", "Capricious"],
+    "antonyms": ["Stable", "Steady", "Constant"],
+    "level": 6
+  },
+  {
+    "id": "barron272",
+    "word": "Warranted",
+    "banglaMeaning": "ন্যায্য",
+    "example": "The criticism was warranted.",
+    "synonyms": ["Justified", "Entitled", "Reasonable"],
+    "antonyms": ["Unwarranted", "Unjustified", "Groundless"],
+    "level": 6
+  },
+  {
+    "id": "barron273",
+    "word": "Wary",
+    "banglaMeaning": "সতর্ক",
+    "example": "Be wary of strangers.",
+    "synonyms": ["Cautious", "Leery", "Vigilent"],
+    "antonyms": ["Reckless", "Careless", "Trusting"],
+    "level": 6
+  },
+  {
+    "id": "barron274",
+    "word": "Welter",
+    "banglaMeaning": "বিশৃঙ্খলা",
+    "example": "The room was in welter.",
+    "synonyms": ["Turmoil", "Jumble", "Chaos"],
+    "antonyms": ["Order", "Harmony", "Arrangement"],
+    "level": 6
+  },
+  {
+    "id": "barron275",
+    "word": "Whimsical",
+    "banglaMeaning": "খামখেয়ালি",
+    "example": "She has whimsical ideas.",
+    "synonyms": ["Capricious", "Fanciful", "Quirky"],
+    "antonyms": ["Practical", "Serious", "Sensible"],
+    "level": 6
+  },
+  {
+    "id": "barron276",
+    "word": "Zealot",
+    "banglaMeaning": "উগ্র অনুরাগী",
+    "example": "He is a political zealot.",
+    "synonyms": ["Fanatic", "Bigot", "Extremist"],
+    "antonyms": ["Moderate", "Skeptic", "Indifferent"],
+    "level": 6
+  },
+  {
+    "id": "barron277",
+    "word": "Zealous",
+    "banglaMeaning": "উৎসাহী\n\nardently",
+    "example": "She is zealous about work.",
+    "synonyms": ["Fervid", "Ardent", "Passionate"],
+    "antonyms": ["Apathetic", "Indifferent", "Lethargic"],
+    "level": 6
+  },
+  {
+    "id": "barron278",
+    "word": "Disingenuous",
+    "banglaMeaning": "অসৎ",
+    "example": "His disingenuous apology fooled no one.",
+    "synonyms": ["Insincere", "Duplicitous", "Deceitful"],
+    "antonyms": ["Sincere", "Candid", "Honest"],
+    "level": 6
+  },
+  {
+    "id": "barron279",
+    "word": "Disinterested",
+    "banglaMeaning": "নিরপেক্ষ",
+    "example": "The judge remained disinterested in the case.",
+    "synonyms": ["Impartial", "Unbiased", "Neutral"],
+    "antonyms": ["Biased", "Partisan", "Prejudiced"],
+    "level": 6
+  },
+  {
+    "id": "barron280",
+    "word": "Disjointed",
+    "banglaMeaning": "অসংলগ্ন",
+    "example": "His speech was disjointed and confusing.",
+    "synonyms": ["Incoherent", "Disconnected", "Fragmented"],
+    "antonyms": ["Coherent", "Connected", "Unified"],
+    "level": 6
+  },
+  {
+    "id": "barron281",
+    "word": "Dismiss",
+    "banglaMeaning": "বাতিল করা",
+    "example": "The manager dismissed the complaint.",
+    "synonyms": ["Reject", "Disregard", "Discharge"],
+    "antonyms": ["Accept", "Admit", "Employ"],
+    "level": 6
+  },
+  {
+    "id": "barron282",
+    "word": "Disparage",
+    "banglaMeaning": "খাটো করা",
+    "example": "She should not disparage others.",
+    "synonyms": ["Belittle", "Denigrate", "Derogate"],
+    "antonyms": ["Praise", "Extol", "Compliment"],
+    "level": 6
+  },
+  {
+    "id": "barron283",
+    "word": "Disparate",
+    "banglaMeaning": "ভিন্নধর্মী",
+    "example": "The group included disparate opinions.",
+    "synonyms": ["Divergent", "Distinct", "Dissimilar"],
+    "antonyms": ["Similar", "Homogeneous", "Identical"],
+    "level": 6
+  },
+  {
+    "id": "barron284",
+    "word": "Dissemble",
+    "banglaMeaning": "ছদ্মবেশ ধারণ করা, ভান করা, গোপন রাখা",
+    "example": "He tried to dissemble his anger.",
+    "synonyms": ["Dissimulate", "Feign", "Pretend"],
+    "antonyms": ["Reveal", "Display", "Be candid"],
+    "level": 6
+  },
+  {
+    "id": "barron285",
+    "word": "Disseminate",
+    "banglaMeaning": "ছড়িয়ে দেওয়া",
+    "example": "The news was disseminated quickly.",
+    "synonyms": ["Circulate", "Propagate", "Broadcast"],
+    "antonyms": ["Suppress", "Conceal", "Withhold"],
+    "level": 6
+  },
+  {
+    "id": "barron286",
+    "word": "Dissolution",
+    "banglaMeaning": "ভাঙন, বিলুপ্ত ",
+    "example": "The dissolution of the company shocked everyone.",
+    "synonyms": ["Termination", "Disbandment", "Abolition"],
+    "antonyms": ["Establishment", "Formation", "Union"],
+    "level": 6
+  },
+  {
+    "id": "barron287",
+    "word": "Dissonance",
+    "banglaMeaning": "অসঙ্গতি",
+    "example": "There was dissonance between his words and actions.",
+    "synonyms": ["Discord", "Disharmony", "Inconsistency"],
+    "antonyms": ["Harmony", "Concord", "Agreement"],
+    "level": 6
+  },
+  {
+    "id": "barron288",
+    "word": "Pedantic",
+    "banglaMeaning": "পাণ্ডিত্যজাহিরকারী (erudite)",
+    "example": "He is pedantic about rules.",
+    "synonyms": ["Dogmatic", "Fussy", "Bookish"],
+    "antonyms": ["Practical", "Unpretentious", "Broad-minded"],
+    "level": 6
+  },
+  {
+    "id": "barron289",
+    "word": "Penchant",
+    "banglaMeaning": "প্রবল ঝোঁক",
+    "example": "She has a penchant for music.",
+    "synonyms": ["Predilection", "Inclination", "Proclivity"],
+    "antonyms": ["Aversion", "Dislike", "Distaste"],
+    "level": 6
+  },
+  {
+    "id": "barron290",
+    "word": "Penury",
+    "banglaMeaning": "চরম দারিদ্র্য",
+    "example": "The family lived in penury.",
+    "synonyms": ["Destitution", "Indigence", "Poverty"],
+    "antonyms": ["Wealth", "Affluence", "Prosperity"],
+    "level": 6
+  },
+  {
+    "id": "barron291",
+    "word": "Perennial",
+    "banglaMeaning": "চিরস্থায়ী (permanent) ",
+    "example": "This is a perennial problem.",
+    "synonyms": ["Perpetual", "Enduring", "Everlasting"],
+    "antonyms": ["Ephemeral", "Transient", "Temporary"],
+    "level": 6
+  },
+  {
+    "id": "barron292",
+    "word": "Perfidious",
+    "banglaMeaning": "বিশ্বাসঘাতক",
+    "example": "He made a perfidious deal.",
+    "synonyms": ["Treacherous", "Disloyal", "Betraying"],
+    "antonyms": ["Loyal", "Faithful", "Trustworthy"],
+    "level": 6
+  },
+  {
+    "id": "barron293",
+    "word": "Perfunctory",
+    "banglaMeaning": "দায়সারা",
+    "example": "He gave a perfunctory nod.",
+    "synonyms": ["Cursory", "Superficial", "Mechanical"],
+    "antonyms": ["Thorough", "Diligent", "Careful"],
+    "level": 6
+  },
+  {
+    "id": "barron294",
+    "word": "Permeable",
+    "banglaMeaning": "ভেদ্য",
+    "example": "The fabric is permeable.",
+    "synonyms": ["Porous", "Penetrable", "Pervious"],
+    "antonyms": ["Impermeable", "Impervious", "Watertight"],
+    "level": 6
+  },
+  {
+    "id": "barron295",
+    "word": "Pervasive",
+    "banglaMeaning": "সর্বব্যাপী",
+    "example": "Corruption is pervasive.",
+    "synonyms": ["Prevalent", "Ubiquitous", "Omnipresent"],
+    "antonyms": ["Rare", "Scarce", "Limited"],
+    "level": 6
+  },
+  {
+    "id": "barron296",
+    "word": "Phlegmatic",
+    "banglaMeaning": "নিরুদ্বেগ\n\nimpervious ",
+    "example": "He remained phlegmatic.",
+    "synonyms": ["Stolid", "Impassive", "Calm"],
+    "antonyms": ["Excitable", "Passionate", "Agitated"],
+    "level": 6
+  },
+  {
+    "id": "barron297",
+    "word": "Piety",
+    "banglaMeaning": "ধার্মিকতা",
+    "example": "She is known for her piety.",
+    "synonyms": ["Devoutness", "Religiousness", "Reverence"],
+    "antonyms": ["Impiety", "Irreverence", "Sacrilege"],
+    "level": 6
+  },
+  {
+    "id": "barron298",
+    "word": "Placate",
+    "banglaMeaning": "শান্ত করা",
+    "example": "He tried to placate the workers.",
+    "synonyms": ["Pacify", "Appease", "Mollify"],
+    "antonyms": ["Provoke", "Aggravate", "Enrage"],
+    "level": 6
+  },
+  {
+    "id": "barron299",
+    "word": "Plasticity",
+    "banglaMeaning": "রূপান্তরযোগ্যতা",
+    "example": "The brain shows plasticity.",
+    "synonyms": ["Malleability", "Flexibility", "Pliability"],
+    "antonyms": ["Rigidity", "Inflexibility", "Stiffness"],
+    "level": 6
+  },
+  {
+    "id": "barron300",
+    "word": "Platitude",
+    "banglaMeaning": "গতানুগতিক কথা\n\n(banal speech)",
+    "example": "He spoke in platitudes.",
+    "synonyms": ["Truism", "Cliché", "Banal remark"],
+    "antonyms": ["Originality", "Insight", "Epigram"],
+    "level": 6
+  },
+  {
+    "id": "barron301",
+    "word": "Plethora",
+    "banglaMeaning": "আধিক্য",
+    "example": "There is a plethora of options.",
+    "synonyms": ["Abundance", "Surplus", "Profusion"],
+    "antonyms": ["Paucity", "Scarcity", "Dearth"],
+    "level": 6
+  },
+  {
+    "id": "barron302",
+    "word": "Plummet",
+    "banglaMeaning": "হঠাৎ পতন",
+    "example": "Shares plummeted suddenly.",
+    "synonyms": ["Plunge", "Drop", "Tumble"],
+    "antonyms": ["Soar", "Surge", "Ascend"],
+    "level": 6
+  },
+  {
+    "id": "barron303",
+    "word": "Porous",
+    "banglaMeaning": "ছিদ্রযুক্ত",
+    "example": "The stone is porous.",
+    "synonyms": ["Permeable", "Pervious", "Spongy"],
+    "antonyms": ["Impermeable", "Solid", "Sealed"],
+    "level": 6
+  },
+  {
+    "id": "barron304",
+    "word": "Pragmatic",
+    "banglaMeaning": "বাস্তববাদী",
+    "example": "She took a pragmatic approach.",
+    "synonyms": ["Practical", "Realistic", "Utilitarian"],
+    "antonyms": ["Idealistic", "Impractical", "Quixotic"],
+    "level": 6
+  },
+  {
+    "id": "barron305",
+    "word": "Preamble",
+    "banglaMeaning": "ভূমিকা",
+    "example": "The law has a preamble.",
+    "synonyms": ["Introduction", "Preface", "Prologue"],
+    "antonyms": ["Epilogue", "Conclusion", "Coda"],
+    "level": 6
+  },
+  {
+    "id": "barron306",
+    "word": "Precarious",
+    "banglaMeaning": "ঝুঁকিপূর্ণ",
+    "example": "His job is precarious.",
+    "synonyms": ["Hazardous", "Perilous", "Uncertain"],
+    "antonyms": ["Secure", "Safe", "Stable"],
+    "level": 6
+  },
+  {
+    "id": "barron307",
+    "word": "Precipitate",
+    "banglaMeaning": "হঠকারী",
+    "example": "He made a precipitate decision.",
+    "synonyms": ["Rash", "Hasty", "Impulsive"],
+    "antonyms": ["Deliberate", "Cautious", "Prudent"],
+    "level": 6
+  },
+  {
+    "id": "barron308",
+    "word": "Precursor",
+    "banglaMeaning": "অগ্রদূত\n\n(Pioneer) ",
+    "example": "These signs are precursors of change.",
+    "synonyms": ["Forerunner", "Herald", "Harbinger"],
+    "antonyms": ["Successor", "Descendant", "Follower"],
+    "level": 6
+  },
+  {
+    "id": "barron309",
+    "word": "Presumptuous",
+    "banglaMeaning": "ঔদ্ধত্যপূর্ণ (truculence)",
+    "example": "His tone was presumptuous.",
+    "synonyms": ["Arrogant", "Audacious", "Presuming"],
+    "antonyms": ["Modest", "Humble", "Deferential"],
+    "level": 6
+  },
+  {
+    "id": "barron310",
+    "word": "Prevaricate",
+    "banglaMeaning": "টালবাহানা করা (obviate,  quibble)",
+    "example": "He tends to prevaricate.",
+    "synonyms": ["Equivocate", "Evade", "Waffle"],
+    "antonyms": ["Speak frankly", "Be direct", "Tell truth"],
+    "level": 6
+  },
+  {
+    "id": "barron311",
+    "word": "Pristine",
+    "banglaMeaning": "নির্মল, আদিম ",
+    "example": "The beach is pristine.",
+    "synonyms": ["Untouched", "Pure", "Unspoiled"],
+    "antonyms": ["Polluted", "Contaminated", "Corrupted"],
+    "level": 6
+  },
+  {
+    "id": "barron312",
+    "word": "Probity",
+    "banglaMeaning": "সততা",
+    "example": "The judge is known for probity.",
+    "synonyms": ["Integrity", "Rectitude", "Honesty"],
+    "antonyms": ["Corruption", "Dishonesty", "Deceit"],
+    "level": 6
+  },
+  {
+    "id": "barron313",
+    "word": "Problematic",
+    "banglaMeaning": "সমস্যাযুক্ত",
+    "example": "The plan is problematic.",
+    "synonyms": ["Questionable", "Troublesome", "Dubious"],
+    "antonyms": ["Straightforward", "Simple", "Clear"],
+    "level": 6
+  },
+  {
+    "id": "barron314",
+    "word": "Prodigal",
+    "banglaMeaning": "অপব্যয়ী",
+    "example": "He is prodigal with money.",
+    "synonyms": ["Extravagant", "Profligate", "Wasteful"],
+    "antonyms": ["Frugal", "Thrifty", "Economical"],
+    "level": 6
+  },
+  {
+    "id": "barron315",
+    "word": "Profound",
+    "banglaMeaning": "গভীর",
+    "example": "She expressed profound grief.",
+    "synonyms": ["Deep", "Intense", "Insightful"],
+    "antonyms": ["Superficial", "Shallow", "Trivial"],
+    "level": 6
+  },
+  {
+    "id": "barron316",
+    "word": "Prohibitive",
+    "banglaMeaning": "নিষেধমূলক",
+    "example": "The cost is prohibitive.",
+    "synonyms": ["Exorbitant", "Restrictive", "Banning"],
+    "antonyms": ["Affordable", "Permissive", "Reasonable"],
+    "level": 6
+  },
+  {
+    "id": "barron317",
+    "word": "Proliferate",
+    "banglaMeaning": "দ্রুত বৃদ্ধি পাওয়া",
+    "example": "Rumors proliferated quickly.",
+    "synonyms": ["Multiply", "Burgeon", "Escalate"],
+    "antonyms": ["Dwindle", "Decrease", "Shrink"],
+    "level": 6
+  },
+  {
+    "id": "barron318",
+    "word": "Propensity",
+    "banglaMeaning": "প্রবণতা (ঝোঁক) ",
+    "example": "He has a propensity for risk.",
+    "synonyms": ["Inclination", "Tendency", "Penchant"],
+    "antonyms": ["Aversion", "Disinclination", "Reluctance"],
+    "level": 6
+  },
+  {
+    "id": "barron319",
+    "word": "Propitiate",
+    "banglaMeaning": "সন্তুষ্ট করা",
+    "example": "He tried to propitiate the gods.",
+    "synonyms": ["Appease", "Conciliate", "Placate"],
+    "antonyms": ["Antagonize", "Provoke", "Enrage"],
+    "level": 6
+  },
+  {
+    "id": "barron320",
+    "word": "Propriety",
+    "banglaMeaning": "শালীনতা",
+    "example": "Maintain propriety in public.",
+    "synonyms": ["Decorum", "Etiquette", "Appropriateness"],
+    "antonyms": ["Impropriety", "Indecorum", "Misconduct"],
+    "level": 6
+  },
+  {
+    "id": "barron321",
+    "word": "Proscribe",
+    "banglaMeaning": "নিষিদ্ধ করা",
+    "example": "The regime proscribed dissent.",
+    "synonyms": ["Forbid", "Ban", "Outlaw"],
+    "antonyms": ["Permit", "Allow", "Sanction"],
+    "level": 6
+  },
+  {
+    "id": "barron322",
+    "word": "Pungent",
+    "banglaMeaning": "তীক্ষ্ণ",
+    "example": "The smell was pungent.",
+    "synonyms": ["Sharp", "Piquant", "Acrid"],
+    "antonyms": ["Bland", "Mild", "Fragrant"],
+    "level": 6
+  },
+  {
+    "id": "barron323",
+    "word": "Qualified",
+    "banglaMeaning": "সীমিত",
+    "example": "His support is qualified.",
+    "synonyms": ["Conditional", "Limited", "Restricted"],
+    "antonyms": ["Unconditional", "Absolute", "Unlimited"],
+    "level": 6
+  },
+  {
+    "id": "barron324",
+    "word": "Quibble",
+    "banglaMeaning": "কৌশলে পরিহার করা, শ্লেষ, ফক্কিা, বাক্চাতুরী (obviate, prevaricate )",
+    "example": "Stop quibbling over details.",
+    "synonyms": ["Cavils", "Carp", "Prevaricate"],
+    "antonyms": ["Agree", "Accept", "Concede"],
+    "level": 6
+  },
+  {
+    "id": "barron325",
+    "word": "Quiescent",
+    "banglaMeaning": "নিষ্ক্রিয় (inert)",
+    "example": "The volcano is quiescent.",
+    "synonyms": ["Dormant", "Inactive", "Latent"],
+    "antonyms": ["Active", "Restless", "Vigorous"],
+    "level": 6
+  },
+  {
+    "id": "barron326",
+    "word": "Rarefied",
+    "banglaMeaning": "হালকা",
+    "example": "The air is rarefied.",
+    "synonyms": ["Refined", "Thin", "Subtle"],
+    "antonyms": ["Dense", "Common", "Coarse"],
+    "level": 6
+  },
+  {
+    "id": "barron327",
+    "word": "Recalcitrant",
+    "banglaMeaning": "অবাধ্য",
+    "example": "The child is recalcitrant.",
+    "synonyms": ["Refractory", "Defiant", "Stubborn"],
+    "antonyms": ["Compliant", "Obedient", "Docile"],
+    "level": 6
+  },
+  {
+    "id": "barron328",
+    "word": "Recant",
+    "banglaMeaning": "মত পরিবর্তন করা",
+    "example": "He refused to recant.",
+    "synonyms": ["Retract", "Renounce", "Repudiate"],
+    "antonyms": ["Reaffirm", "Uphold", "Maintain"],
+    "level": 6
+  },
+  {
+    "id": "barron329",
+    "word": "Recluse",
+    "banglaMeaning": "নিঃসঙ্গ ব্যক্তি",
+    "example": "The writer became a recluse.",
+    "synonyms": ["Hermit", "Solitary", "Lonely"],
+    "antonyms": ["Extrovert", "Socialite", "Companion"],
+    "level": 6
+  },
+  {
+    "id": "barron330",
+    "word": "Recondite",
+    "banglaMeaning": "দুর্বোধ্য",
+    "example": "The text is recondite.",
+    "synonyms": ["Abstruse", "Esoteric", "Arcane"],
+    "antonyms": ["Clear", "Accessible", "Obvious"],
+    "level": 6
+  },
+  {
+    "id": "barron331",
+    "word": "Refractory",
+    "banglaMeaning": "  অদম্য, অদমনীয়, দুর্বিনীত, অবাধ্য",
+    "example": "The student was refractory.",
+    "synonyms": ["Stubborn", "Unmanageable", "Recalcitrant"],
+    "antonyms": ["Compliant", "Tractable", "Obedient"],
+    "level": 6
+  },
+  {
+    "id": "barron332",
+    "word": "Refute",
+    "banglaMeaning": "খণ্ডন করা",
+    "example": "He refuted the claim.",
+    "synonyms": ["Rebut", "Disprove", "Confute"],
+    "antonyms": ["Confirm", "Substantiate", "Verify"],
+    "level": 6
+  },
+  {
+    "id": "barron333",
+    "word": "Relegate",
+    "banglaMeaning": "অবনমিত করা",
+    "example": "He was relegated to a minor role.",
+    "synonyms": ["Demote", "Downgrade", "Assign"],
+    "antonyms": ["Promote", "Elevate", "Advance"],
+    "level": 6
   }
 ]
 
